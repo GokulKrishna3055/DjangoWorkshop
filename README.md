@@ -1,0 +1,2 @@
+# DjangoWorkshop
+To learn Django
